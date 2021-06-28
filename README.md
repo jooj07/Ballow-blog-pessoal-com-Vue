@@ -1,6 +1,6 @@
 # Ballow
 [![Alternate Text](./home.png)](https://youtu.be/SfogESYhYrw "Video de apresentação")
-
+Clique na imagem acima e veja o vídeo de demonstração
 
 
 ![Alternate Text](./newaticle.gif)  
