@@ -24,13 +24,13 @@ Ballow /bálou/ nasceu como meu primeiro projeto, baseado no projeto de conclus�
 ----
 
 ## Disclaimer
-Ainda me enquadro na categoria de programador júnior, estou estudando a 4 meses e, a priori, com foco em front-end. Sendo assim,o front-end deste projeto se diferencia muito do projeto "mãe" e o back-end não. Um back-end um pouquinho mais elaborado você pode encontrar no meu outro projeto (até hoje, dia 28/06/2021, ainda não postado) o Boblee /bóbli/, um mock site de perguntas e respostas. Agora sem mais delongas, vamos continuar :).
+Ainda me enquadro na categoria de programador júnior, estou estudando a 4 meses e, a priori, com foco em front-end. Sendo assim,o mesmo se diferencia muito do projeto "mãe" e o back-end não.
 
 
 ----
 
-## O que é o Ballow? 
-O Ballow se baseia no site Medium, ou seja, um blog pessoal. 
+## Sobre? 
+O projeto tem como ideia principal imitar um site de blog como o Medium.com, por exemplo. 
 
 ## Como funciona? 
 ### Existem 3 atores ao todo:
